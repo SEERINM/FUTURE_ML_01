@@ -8,4 +8,3 @@ By *Future Interns*
 * Pandas, NumPy
 * Scikit-learn
 * Matplotlib & Seaborn
-* (add others if any: e.g., statsmodels, Prophet, etc.)
